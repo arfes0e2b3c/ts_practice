@@ -22,5 +22,5 @@ type b = {
 // }
 // こっちは普通にエラー。型が決まってるけど実際の値が存在しないってなるとそのプロパティにアクセスしたときにundefinedになって型安全が守られてないことになるから
 
-console.log(A);
-console.log(B);
+// console.log(A);
+// console.log(B);
